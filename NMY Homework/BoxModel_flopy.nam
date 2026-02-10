@@ -6,6 +6,5 @@ BAS6              13  BoxModel_flopy.bas
 BCF6              15  BoxModel_flopy.bcf
 OC                14  BoxModel_flopy.oc
 PCG               27  BoxModel_flopy.pcg
-RCH               19  BoxModel_flopy.rch
 DATA(BINARY)      53  BoxModel_flopy.cbc REPLACE
 DATA(BINARY)      51  BoxModel_flopy.hds REPLACE
